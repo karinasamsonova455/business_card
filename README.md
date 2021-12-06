@@ -1,4 +1,6 @@
 # Студія 2D-анімації
+![klaus_feature](https://user-images.githubusercontent.com/95470369/144933607-b998b6d4-1e79-456c-a355-ca0307ae1d3e.jpg)
+
 # НАШІ ПЕРЕВАГИ
 
 ![kachestvennyj-videoryad-i-ozvuchka](https://user-images.githubusercontent.com/95470369/144933326-78aaf12a-4688-4454-9eef-a5de7ca9c9dc.png)
